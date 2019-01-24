@@ -1,1 +1,2 @@
 emojiFastText.db filter=lfs diff=lfs merge=lfs -text
+fastText.db filter=lfs diff=lfs merge=lfs -text
